@@ -1,4 +1,6 @@
 # -Othello-Game-Implementation-with-Prolog-and-Python-GUI-
+Es muy importante destacar que para este proyecto utilicé la versión de prolog: swipl-8.4.3-1.x64.exe
+Link: https://www.swi-prolog.org/download/stable/bin/swipl-8.4.3-1.x64.exe.envelope 
 
 Síntesis del Problema
 
